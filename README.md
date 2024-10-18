@@ -8,7 +8,7 @@ I am currently focused on learning Python.
 ## 🛠️ Skills
 
 - **Programming Languages:** Python, C, C++
-- **Operating Systems:** Linux
+- **Operating Systems:** Linux, MacOS
 - **Areas of Interest:** Backend Development, Algorithms, and Data Structures.
 - **Current Focus:** Python and server-side applications.
 
