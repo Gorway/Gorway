@@ -38,7 +38,9 @@ Picsart Academy: Studied programming and computer science fundamentals.
 
 📫 Get in touch:
 Telegram: @Gor_Petrossian
+
 LinkedIn: linkedin.com/in/gor-petrosyan-3823092a3
+
 Email: gor.petrosyan.alexandri@gmail.com
 
 Feel free to contact me. :)
