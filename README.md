@@ -1,30 +1,44 @@
-# Hello! I'm Gor 👋
+👋 Hi, I'm Gor!
 
-I have been studying programming at Picsart Academy for over a year,
-where I have learned fundamental aspects of computer science. 
-I have knowledge of the Linux operating system, extensive experience with C, basic knowledge of C++.
-I am currently focused on learning Python.
+I'm a Python Backend Developer passionate about building scalable and efficient web applications. With expertise in FastAPI, Django, and backend ecosystems, I design robust APIs, optimize performance, and work with databases, asynchronous processing, and cloud services.
 
-## 🛠️ Skills
+🛠 Tech Stack:
 
-- **Programming Languages:** Python, C
-- **Operating Systems:** Linux, MacOS
-- **Areas of Interest:** Backend Development, Algorithms, and Data Structures.
-- **Current Focus:** Python and server-side applications.
+Programming Language: Python
 
-## 📚 Education
+Frameworks & Libraries: FastAPI, Flask, Django, SQLAlchemy, Pydantic
 
-- **Picsart Academy:** Studying programming and computer science fundamentals.
-- **Programming Languages:** C
-- **Currently Learning:** Python
+Databases: PostgreSQL, MongoDB, MySQL, Redis
 
----
+ORMs & Migrations: SQLAlchemy, Alembic
 
-## 📫 Get in Touch
+Task Queues & Background Processing: Celery, Redis
 
-- **LinkedIn:**  www.linkedin.com/in/gor-petrosyan-3823092a3
-- **Email:** gor.petrosyan.alexandri@gmail.com
+Containerization & Deployment: Docker, Docker Compose
 
----
+Asynchronous Programming: Asyncio, Aiohttp, Starlette
 
-**Thank you for visiting my profile!** 🚀
+Testing: Pytest, Unittest
+
+Authentication & Security: JWT, OAuth2, Djoser, Knox
+
+Operating Systems: Linux, macOS
+
+🚀 Currently working on:
+
+Stamina – AI-powered mental health assistant providing personalized therapy and 24/7 support, developed with input from over 200 psychologists.
+
+ExoChat – AI-driven conversational framework for building intelligent chatbots and virtual assistants with structured dialogue management.
+
+📚 Education:
+
+RSUTS: Bachelor's in Computer Science and Applied Informatics
+
+Picsart Academy: Studied programming and computer science fundamentals.
+
+📫 Get in touch:
+Telegram: @Gor_Petrossian
+LinkedIn: linkedin.com/in/gor-petrosyan-3823092a3
+Email: gor.petrosyan.alexandri@gmail.com
+
+Feel free to contact me. :)
