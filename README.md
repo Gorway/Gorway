@@ -6,7 +6,7 @@ I'm a Python Backend Developer passionate about building scalable and efficient 
 
 Programming Language: Python
 
-Frameworks & Libraries: FastAPI, Flask, Django, SQLAlchemy, Pydantic
+Frameworks & Libraries: FastAPI, Django, SQLAlchemy, Pydantic
 
 Databases: PostgreSQL, MongoDB, MySQL, Redis
 
